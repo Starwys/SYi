@@ -32,7 +32,7 @@ var config = {
      */
     imgs: {
         "嘤嘤嘤and鼻涕虫小艺": "./biticong.png",
-        "by WYS": "./biticong.png",
+        "by WYS": "./m.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
