@@ -28,14 +28,14 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "嘤嘤嘤and鼻涕虫小艺": "./imgs/xiaokeai.png",
+        "嘤嘤嘤and鼻涕虫小艺": "./biticong.png",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
         turn_on: "begin",
         play: "Music?",
-        bannar_coming: "颜色",
+        bannar_coming: "Decorate?",
         balloons_flying: "小艺，还想要什么呢？",
         cake_fadein: "看个蛋糕？",
         light_candle: "赏个蜡烛？",
